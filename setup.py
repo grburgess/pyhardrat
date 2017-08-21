@@ -20,6 +20,8 @@ setup(
         'astropy',
         'scipy',
         'threeML',
+        'pandas',
+        'matplotlib'
     ],
 )
 
