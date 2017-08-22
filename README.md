@@ -1,4 +1,5 @@
 # pyhardrat
+![alt text](https://github.com/grburgess/pyhardrat/blob/master/Cyborg-Rats.png)
 
 pyhardrat calculates photon/energy model hardness ratios from fitted GBM catalog models for a user specified energy range
 
