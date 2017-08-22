@@ -9,6 +9,15 @@ pip install  git+https://github.com/grburgess/pyhardrat.git
 ## Usage
 
 ```python
+from pyhardrat import *
+
+hrb = HardnessDurationBuilder()
+
+hrb.catalog.query('.01<t90<5')
+
+hrb.build_sample()
+
+hrb.compute_hardness_ratios(10,50,50,300)
 
 
 ```
